@@ -1,0 +1,58 @@
+/* Inicio*/
+
+body {
+  background-color: white;
+  font-family: 'Playfair Display', serif;
+}
+
+/*Barra de navegacion*/
+.navbar {
+  padding: 2rem;
+  background-color: white;
+}
+.navbar-collapse{
+  align-items: center;
+  justify-content: space-between ;
+}
+
+/**Formulario**/
+
+li a:hover {
+  background-color: skyblue;
+}
+/* Argen market*/
+.ARGENMARKET{
+  height: 500px;
+  padding: 5px;
+}
+.Seccion-titulo {
+  font-size: rem;
+  padding: 15px 0;
+}
+.Seccion-titulo {
+  color: black;
+  background-color: skyblue;
+  text-align:center ;
+}
+.Texto {
+height: auto;
+padding: 10px;
+margin-left: 100px;
+margin-right: 100px;
+}
+.Texto .contenedor {
+max-width: 500px;
+text-align: center;
+}
+
+.productos_carrusel .carousel-item{
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  left: 40%;
+
+}
+
+head{
+  height: 20px;
+}
